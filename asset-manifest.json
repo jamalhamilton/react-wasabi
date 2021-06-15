@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/reactwasabi.git/static/js/main.ad6a4784.chunk.js",
+    "main.js.map": "/reactwasabi.git/static/js/main.ad6a4784.chunk.js.map",
+    "runtime-main.js": "/reactwasabi.git/static/js/runtime-main.d5e32087.js",
+    "runtime-main.js.map": "/reactwasabi.git/static/js/runtime-main.d5e32087.js.map",
+    "static/js/2.76d68cb1.chunk.js": "/reactwasabi.git/static/js/2.76d68cb1.chunk.js",
+    "static/js/2.76d68cb1.chunk.js.map": "/reactwasabi.git/static/js/2.76d68cb1.chunk.js.map",
+    "static/js/3.b6b0193a.chunk.js": "/reactwasabi.git/static/js/3.b6b0193a.chunk.js",
+    "static/js/3.b6b0193a.chunk.js.map": "/reactwasabi.git/static/js/3.b6b0193a.chunk.js.map",
+    "index.html": "/reactwasabi.git/index.html",
+    "static/js/2.76d68cb1.chunk.js.LICENSE.txt": "/reactwasabi.git/static/js/2.76d68cb1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5e32087.js",
+    "static/js/2.76d68cb1.chunk.js",
+    "static/js/main.ad6a4784.chunk.js"
+  ]
+}
